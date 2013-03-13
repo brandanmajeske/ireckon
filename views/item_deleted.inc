@@ -1,0 +1,1 @@
+<h2>Your item has been deleted!</h2>

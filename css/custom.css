@@ -1,0 +1,55 @@
+body {
+	background: rgba(62,120,253,0.2);
+}
+
+.space{
+	padding-top: 100px;
+}
+
+
+.error {
+	color: red;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.error li {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.actions_list {
+	color: blue;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.actions_list li {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.list_item {
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+
+.single_list_item {
+	color: #333;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+.single_list_item {
+	font-size: 1.2em;
+	line-height: 1.5em;
+}
+
+.hidden {
+	/*display: none;*/
+	visibility: hidden;
+}
